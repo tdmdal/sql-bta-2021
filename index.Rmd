@@ -18,13 +18,13 @@ SQL is a data query and management language for relational databases. A solid kn
 
 ### Notebook
 
-* SQL Intro Notebook [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/bta-sql-2021/blob/master/docs/SQL_Intro_Sqlite_short.ipynb)
+* SQL Intro Notebook [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/sql-bta-2021/blob/master/docs/SQL_Intro_Sqlite_short.ipynb)
 
 ---
 
 ### Free Learning Resources
 
-* SQL Intro Notebook (Full Version) [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/bta-sql-2021/blob/master/docs/SQL_Intro_Sqlite.ipynb)
+* SQL Intro Notebook (Full Version) [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/sql-bta-2021/blob/master/docs/SQL_Intro_Sqlite.ipynb)
 
 * [Learning SQL Programming by Scott Simpson](https://www.linkedin.com/learning/learning-sql-programming){target="_blank"} on LinkedIn Learning (1h 27m).
 
